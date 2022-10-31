@@ -1,4 +1,4 @@
-const dateFinish = new Date('Oct 25 2022 00:00:00') 
+const dateFinish = new Date('Oct 25 2023 00:00:00') 
 
 
 function timer(dateFinish){
